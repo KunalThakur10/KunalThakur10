@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@kunalth78802197" target="blank"><img src="https://img.shields.io/twitter/follow/@kunalth78802197?logo=twitter&style=for-the-badge" alt="@kunalth78802197" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Projects using Python.**
+- 🔭 I’m currently working on **Data Science Projects.**
 
 - 👯 I’m looking to collaborate on **Hackathons and Dev groups.**
 
