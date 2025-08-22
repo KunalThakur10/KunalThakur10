@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons and Dev groups.**
 
-- 💬 Ask me about **Python, C++, Unity3D**
+- 💬 Ask me about **ML, Data Science and Game Dev!**
 
 - ⚡ Fun fact **I'm an Arsenal Fan.**
 
